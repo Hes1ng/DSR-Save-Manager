@@ -19,7 +19,7 @@ Requirements
 - Dark Souls Remastered installed.
 - Profiles stored in %USERPROFILE%\Documents\NBGI\DARK SOULS REMASTERED.
 
-MIT License
+MIT License.
 Use, modify, and distribute as needed.
 
 Українська Версія
@@ -38,5 +38,5 @@ Use, modify, and distribute as needed.
 - Встановлено Dark Souls Remastered.
 - Профілі зберігаються в %USERPROFILE%\Documents\NBGI\DARK SOULS REMASTERED.
 
-MIT Ліцензія
+MIT Ліцензія.
 Використовуйте, змінюйте та поширюйте за необхідності.
